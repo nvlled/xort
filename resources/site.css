@@ -1,0 +1,30 @@
+.wrapper {
+    width: 90%;
+    margin-left: 50px;
+}
+
+.error {
+    padding: 3px;
+    background-color: #555;
+    color: #edd;
+}
+
+.site-name a {
+    text-decoration: none;
+    color: black;
+    float: left;
+}
+
+.site-elm {
+    display: inline-block;
+    float: left;
+    margin: 10px 1px;
+    margin-left: 10px;
+}
+
+table.links td {
+    padding-right: 20px;
+    border-bottom: 1px solid #bbb
+}
+table.links tr {
+}
